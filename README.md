@@ -2,9 +2,8 @@
 
 
 Meet Pulkit Chaturvedi
+
 Berlin, Germany
-Email: PulkitChaturvedi87@gmail.com
-Mobile: +491778764563
 https://www.linkedin.com/in/pulkitchaturvedi87/
 
 **Professional Experience**
