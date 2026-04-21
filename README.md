@@ -7,14 +7,15 @@ Berlin, Germany
 https://www.linkedin.com/in/pulkitchaturvedi87/
 
 **Professional Experience**
-Test Lead - Natwest Bank (Royal Bank of Scotland), GURGAON	
+Senior TA engineer - Delivery Hero (Berlin, Germany) 
+AVP, Test Lead - Natwest Bank (Royal Bank of Scotland), GURGAON	
 Test Analyst - Barclays Investment Bank	
 Test Engineer - Fiserv 
 
 
 **Certifications**
-Certified Scrum Master and Scrum Product Owner (Scrum Alliance)
 ISTQB Advanced Test Manager
+Certified Scrum Master and Scrum Product Owner (Scrum Alliance)
 ISTQB Foundation Level Tester
 NCFM Financial Markets Certified
 NISM Mutual Fund Certification
