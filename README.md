@@ -1,9 +1,9 @@
 
-  ## Pulkit Chaturvedi — Quality Engineering & Chapter Leadership
+  ## Pulkit Chaturvedi — Quality Engineering
 
   Berlin, Germany ·
   [LinkedIn](https://www.linkedin.com/in/pulkitchaturvedi87/) ·
-  [Writing](https://pulkitchaturvedi.substack.com)
+  [Substack](https://pulkitchaturvedi.substack.com)
 
   I build quality platforms and engineer testing cultures — not just test suites.
   
