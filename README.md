@@ -12,9 +12,8 @@ Previously led QA at NatWest (RBS) as AVP Test Lead, and built testing capabilit
 
 ## Writing
 
-Stop Chasing Individual Failures — the thinking behind systematic quality analysis
-The Career Shortcut Nobody Talks About — on identifying and owning org-level problems
-
+- [Stop Chasing Individual Failures](https://pulkitchaturvedi.substack.com/p/stop-chasing-individual-failures) — the thinking behind systematic quality analysis
+- [The Career Shortcut Nobody Talks About](https://pulkitchaturvedi.substack.com/p/the-career-shortcut-nobody-talks) — on identifying and owning org-level problems
 ---
 
 ## Projects
