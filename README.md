@@ -10,6 +10,11 @@ Currently Quality Chapter Lead and Senior SDET at Delivery Hero, where I work ac
 
 Previously led QA at NatWest (RBS) as AVP Test Lead, and built testing capability at Barclays and Fiserv across financial services domains.
 
+## Writing
+
+Stop Chasing Individual Failures — the thinking behind systematic quality analysis
+The Career Shortcut Nobody Talks About — on identifying and owning org-level problems
+
 ---
 
 ## Projects
@@ -28,10 +33,16 @@ A production-grade quality pipeline demonstrating how to enforce quality gates s
 
 Built with Java 17, Spring Boot 3, JUnit 5, and GitHub Actions. The point isn't the tools — it's the *thinking*: how to make quality checks scale without becoming gatekeeping theater.
 
+<img width="1042" height="235" alt="CICD" src="https://github.com/user-attachments/assets/50ee34fe-280a-4a45-b790-c78283b60aab" />
+
+
 ### Flakey Tests Grouping Dashboard
 **[GitHub Repo](https://github.com/alwayspulkit/FlakeyTestDashboard)**
 
 A dashboard for identifying the root causes hiding behind flaky tests. Instead of debugging failures one by one, this tool groups them by common failure patterns and infrastructure issues, so you can fix the system, not the symptom.
+
+<img width="1144" height="757" alt="Screenshot 2026-05-22 at 13 17 51" src="https://github.com/user-attachments/assets/09cd1a10-093e-4457-b901-665501d4d0a9" />
+
 
 ### Mobile SaaS Test Strategy
 **[GitHub Repo](https://github.com/alwayspulkit/mobile-saas-test-strategy)** · 
